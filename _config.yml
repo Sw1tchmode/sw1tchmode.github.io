@@ -5,13 +5,12 @@ url: "sw1tchmode.github.io"
 
 header_pages:
   - index.md
-  - peter.md
+  - writeup.md
   - about.md
-  - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/Fr33sTYLeR_DJ">twitter</a>'
 
 # Build settings
 markdown: kramdown
