@@ -1,5 +1,5 @@
 ---
-title: Sw1tching..
+title: /home
 layout: home
 permalink: /
 ---
