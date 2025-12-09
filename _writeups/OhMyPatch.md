@@ -1,4 +1,4 @@
-<img width="590" height="193" alt="image" src="https://github.com/user-attachments/assets/9c7a9679-e648-408f-9485-3428beebf37c" />---
+---
 title: "OhMyPatch - FlagYard"
 ---
 
