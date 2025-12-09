@@ -1,5 +1,5 @@
 ---
-title: "OhMyPatch - FlagYard Web Challenge Writeup"
+title: "OhMyPatch - FlagYard"
 ---
 
 # OhMyPatch - FlagYard: Web
