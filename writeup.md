@@ -4,5 +4,5 @@ layout: page
 permalink: /writeup
 ---
 
-# OhMyPatch - FlagYard
+[# OhMyPatch - FlagYard](https://sw1tchmode.github.io/writeup/OhMyPatch)
 
