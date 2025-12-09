@@ -1,8 +1,12 @@
 ---
-title: /writeups
+title: Write ups
 layout: page
 permalink: /writeup
 ---
 
-[# OhMyPatch - FlagYard](https://sw1tchmode.github.io/writeup/OhMyPatch)
+{% assign sorted = site.writeups | sort: "title" %}
+
+{% for w in sorted %}
+- [{{ w.title }}]({{ w.url | relative_url }})
+{% endfor %}
 
