@@ -9,11 +9,11 @@ OhMy"Patch" so probably we will deal with Patch request method.</strong>
 
 
 We used dirb at the beginning and turned out there was 4 files:
-```
+``
 dirb http://xxxx.playat.flagyard.com/
 
 flag
 patch
 users
 register
-```
+``
