@@ -16,6 +16,12 @@ collections:
     output: true
     permalink: /writeup/:name/
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
 # Build settings
 markdown: kramdown
 remote_theme: Sw1tchmode/jekyll-theme-console
