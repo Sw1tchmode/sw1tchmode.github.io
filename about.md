@@ -6,6 +6,5 @@ permalink: /about/
 
 # Whoami
 
-<strong>Hello, i'm Yazeed Alzahrani, i love hacking, pentesting, digital forensics, and threat hunting. <br>
+Hello, i'm Yazeed Alzahrani, i love hacking, pentesting, digital forensics, and threat hunting.
 I hope you find my blog useful, Enjoy :)
-</strong>
